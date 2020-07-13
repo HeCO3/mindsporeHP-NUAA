@@ -1,0 +1,1 @@
+mindspore 比赛项目
